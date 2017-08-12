@@ -3,6 +3,7 @@
     "description": "Bash autocomplete for php",
     "type": "cli-tool",
     "license": "GPLv3",
+    "version": "0.1",
     "authors": [
         {
             "name": "Emil Österlund",
